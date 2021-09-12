@@ -10,3 +10,9 @@
 - 🌡 Detect temperature & humidity and display
 - 🔈 Voice memo: record and play
 - 💡 Light up the LED for 10s when the sensor was touched
+
+#### `2.0 New Features`
+- 🎼 Play the songs saved in the DF card
+- 🤔 Give feedback on some of commands like "Who are you?"
+- 💝 You can control the LED and MP3 Player by your voice
+- 🎊 Cute apperance!!!
