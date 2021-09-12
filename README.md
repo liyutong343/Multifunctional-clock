@@ -14,5 +14,5 @@
 #### `2.0 New Features`
 - 🎼 Play the songs saved in the DF card
 - 🤔 Give feedback on some of commands like "Who are you?"
-- 💝 You can control the LED and MP3 Player by your voice
+- 💝 You can control the LED, MP3 Player and memo by your voice
 - 🎊 Cute apperance!!!
